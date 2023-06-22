@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 data/jena_*
+STOC/saved_model/*

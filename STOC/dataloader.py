@@ -2,7 +2,7 @@ import torch
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from .dataset import BuildDataset
+from dataset import BuildDataset
 
 
 def get_dataloader(args):
